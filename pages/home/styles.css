@@ -64,5 +64,44 @@ h1{
 .bttn__found{
     color: white;
 }
-
-
+.card{
+    margin-right:30px;
+}
+.card__heading{
+    color:#256EEB;
+    margin: 0;
+    margin-top: 10px;
+}
+.address, .time{
+    color: #C4C4C4;
+}
+.card-title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.price{
+    color:black ;
+}
+.price{
+    font-weight: bold;
+}
+.recommend__heading{
+    color:black;
+}
+.card__img{
+    width: 100%;
+    height: auto;
+    max-width: 246px;
+    max-height: 178px;
+    object-fit: cover;
+}
+.recommend{
+    display: flex;
+}
+.cardrow:first-child{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
