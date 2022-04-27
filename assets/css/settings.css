@@ -1,0 +1,17 @@
+@import url(../../assets/css/normalize.css);
+.container{
+    max-width: 1146px;
+    margin: 0 auto;
+}
+@font-face {
+    font-family: "Roboto";
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: "RobotoBold";
+    src: url(../fonts/Roboto-Bold.ttf);
+}
+*{
+    font-family: "Roboto";
+
+}
