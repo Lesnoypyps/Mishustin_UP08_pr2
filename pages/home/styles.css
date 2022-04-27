@@ -43,3 +43,26 @@ h1{
     color: white;
     padding: 10px 15px;
 }
+.searchbar{
+    width: 90%;
+    border-radius: 5px;
+    border: none;
+    padding-top: 14px ;
+    padding-bottom: 14px ;
+    padding-left: 21px;
+}
+.search{
+    background-color: #256EEB;
+    padding: 3px;
+    border-radius: 6px;
+}
+.searchbar-bttn{
+   background: transparent;
+   border: none; 
+   margin-left:15px;
+}
+.bttn__found{
+    color: white;
+}
+
+
